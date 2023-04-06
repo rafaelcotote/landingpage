@@ -12,6 +12,19 @@ body {
   background: linear-gradient(68.15deg, #302f2b 16.62%, #949184 85.61%);
 }
 
+.circle-image {
+  display: bloco embutido;
+  raio da borda: 50%;
+  estouro: oculto;
+  largura: 50 px;
+  altura: 50px;
+}
+.circle-image img {
+  largura: 100%;
+  altura: 100%;
+  ajuste do objeto : capa ;
+}
+
 .cabecalho {
   display: flex;
   flex-direction: row;
