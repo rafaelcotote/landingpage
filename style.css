@@ -48,21 +48,6 @@ body {
   justify-content: space-around;
 }
 
-.circle-image {
-  display: bloco embutido;
-  raio da borda: 50%;
-  estouro: oculto;
-  largura: 50 px;
-  altura: 50px;
-}
-
-.circle-image img {
-  largura: 100%;
-  altura: 100%;
-  ajuste do objeto : capa ;
-}
-
-
 .conteudo-principal-escrito {
   display: flex;
   flex-direction: column;
